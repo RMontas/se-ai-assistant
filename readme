@@ -1,0 +1,5 @@
+run
+
+ sed -e 's/ /\t/g' building_costs.txt > building_costs_new.txt
+
+to substitute whitespace with tabs
